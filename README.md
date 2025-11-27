@@ -1,4 +1,4 @@
-# Detecting-Emotional-Manipulation-in-Social-Media-Advertisements-via-Data-Analytics
+# Detecting-Emotional-Manipulation-in-Social-Media-Advertisements
 
 ## Overview
 
