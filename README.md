@@ -126,5 +126,4 @@ This project emphasizes **AI ethics in marketing analytics** by:
 ## Author
 
 **Developed By Harsh Arora**
-
 ---
