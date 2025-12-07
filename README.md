@@ -123,6 +123,10 @@ This project emphasizes **AI ethics in marketing analytics** by:
 
 ---
 
+## License
+
+This project is licensed under the MIT License.
+
 ## Author
 
 **Developed By Harsh Arora**
